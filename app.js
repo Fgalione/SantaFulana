@@ -48,7 +48,7 @@ function newslatter() {
         showCloseButton: true,
         showCancelButton: true,
         focusConfirm: false,
-        confirmButtonText:'👍 Great!',
+        confirmButtonText:'👍 Gracias!',
         confirmButtonAriaLabel: 'Thumbs up, great!',
         cancelButtonText:'👎',
         cancelButtonAriaLabel: 'Thumbs down',
