@@ -1,0 +1,26 @@
+.carWidget {
+    position: relative;
+    left: 33%;
+    color: white;
+}
+
+.cantCarrito {
+    position: relative;
+    left: 13%
+}
+
+.cardProducto {
+    width: 18rem;
+    margin: 4px;
+}
+
+.cardProductos {
+    margin: 4px;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemDetail {
+    max-width: 540px;
+    margin-top: 20px;
+}
